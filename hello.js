@@ -1,1 +1,3 @@
-console.log('Hello, Jack')
+var name = "Jack"
+
+console.log(`Hello ${name}`)
